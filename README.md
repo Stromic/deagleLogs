@@ -6,6 +6,8 @@ The code isn't great as even the recode was done when I was very inexperienced (
 
 I wouldn't use this as example code for learning as it's pretty bad and I didn't really know proper programming practices when I made it.
 
+## This addon probably doesn't work anymore but it can start working with a bit of editing.
+
 ------------
 
 CONFIG LOCATION = dlogs/lua/deaglelogs/config/config.lua 
