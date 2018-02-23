@@ -1,13 +1,14 @@
 # deagleLogs
 
-This was my first ever Lua addon and at one point was in the top 5 addons on both coderhire and scriptfodder.
+This was my first ever Lua addon and at one point was in the top 5 addons on both coderhire and scriptfodder(While being used by over 500 servers and over 25,000 players)
 
-The code isn't great as even the recode was done when I was very inexperienced (Jan-Feb 2014) with the original version being made early 2013.
 
-I wouldn't use this as example code for learning as it's pretty bad and I didn't really know proper programming practices when I made it.
+## Timeline
+### *Early 2013* - deagleLogs v1
+### *Early 2014* - deagleLogs v2 (Total recode from the ground up including UI/UX)
+### *Mid 2016* - I make the source code public
 
-## This addon probably doesn't work anymore.
-
+### *This code hasn't been updated since 2014 while Garry's Mod definetly has. Some code may not work anymore*
 ------------
 
 CONFIG LOCATION = dlogs/lua/deaglelogs/config/config.lua 
