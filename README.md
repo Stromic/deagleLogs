@@ -4,9 +4,9 @@ This was my first ever Lua addon and at one point was in the top 5 addons on bot
 
 
 ## Timeline
-### *Early 2013* - deagleLogs v1
-### *Early 2014* - deagleLogs v2 (Total recode from the ground up including UI/UX)
-### *Mid 2016* - I make the source code public
+- *Early 2013* - deagleLogs v1
+- *Early 2014* - deagleLogs v2 (Total recode from the ground up including UI/UX)
+- *Mid 2016* - I make the source code public
 
 ### *This code hasn't been updated since 2014 while Garry's Mod definetly has. Some code may not work anymore*
 ------------
