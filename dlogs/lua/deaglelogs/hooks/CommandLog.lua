@@ -7,7 +7,7 @@
 
 local oConCommand = concommand.Run
 
-function concommand.Run(ply,cmd,args)
+function concommand.Run(ply,cmd,args,args_str)
 
 		if !IsValid(ply) then return oConCommand(ply,cmd,args) end
 		if !cmd then return oConCommand(ply,cmd,args) end
@@ -31,6 +31,6 @@ function concommand.Run(ply,cmd,args)
 
 		dLogs.recordLog('Command',tolog)
 
-		return oConCommand(ply,cmd,args)
+		return oConCommand(ply,cmd,args,args_str)
 
 end
